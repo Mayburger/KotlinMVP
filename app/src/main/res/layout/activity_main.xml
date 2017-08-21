@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.nacoda.kotlin.MainActivity">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:layout_weight="1"
+        android:id="@+id/btnSegitiga"
+        android:background="@color/colorPrimary"
+        android:text="@string/string_segitiga"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:layout_weight="1"
+        android:id="@+id/btnPersegi"
+        android:background="@color/colorPrimary"
+        android:text="@string/string_persegi"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:layout_weight="1"
+        android:id="@+id/btnPersegiPanjang"
+        android:background="@color/colorPrimary"
+        android:text="@string/string_persegi_panjang"
+        android:textColor="@color/colorWhite" />
+
+
+</LinearLayout>

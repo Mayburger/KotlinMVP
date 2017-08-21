@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="string_tinggi">Tinggi</string>
+    <string name="string_luas">Luas</string>
+    <string name="string_hitung">Hitung</string>
+    <string name="string_segitiga">Segitiga</string>
+    <string name="string_persegi">Persegi</string>
+    <string name="string_persegi_panjang">Persegi Panjang</string>
+</resources>
